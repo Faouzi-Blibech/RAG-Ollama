@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>Local RAG – Dark</title>
+  <style>
+    :root{
+      --bg-main:#0e0e0e;
+      --bg-chat:#111;
+      --bg-side:#0a0a0a;
+      --accent:#007bff;
+      --text:#e0e0e0;
+      --text-dim:#777;
+      --border:#222;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:"Segoe UI",Arial,sans-serif;display:flex;height:100vh;background:var(--bg-main);color:var(--text)}
+    #sidebar{width:300px;background:var(--bg-side);padding:1rem;overflow-y:auto;border-right:1px solid var(--border);display:flex;flex-direction:column}
+    #chat-area{flex:1;display:flex;flex-direction:column}
+    #messages{flex:1;padding:1rem;overflow-y:auto;background:var(--bg-chat)}
+    .msg{margin-bottom:1rem;line-height:1.4}
+    .user{color:var(--accent);font-weight:bold}
+    .bot{color:var(--text)}
+    #input-area{display:flex;border-top:1px solid var(--border)}
+    #input-area input{flex:1;padding:.8rem;border:none;outline:none;font-size:1rem;background:var(--bg-main);color:var(--text)}
+    #input-area button{padding:0 1.2rem;border:none;background:var(--accent);color:#fff;cursor:pointer;font-weight:bold}
+
+    /* Upload on top */
+    #upload{margin-bottom:1rem}
+    #upload input[type=file]{display:none}
+    #upload label{display:inline-block;padding:.6rem 1rem;background:var(--accent);color:#fff;border-radius:3px;cursor:pointer;font-size:.9rem}
+
+    /* History styling */
+    .history-item{display:flex;align-items:center;padding:.35rem 0;font-size:.9rem;border-bottom:1px dotted var(--border)}
+    .history-item span{flex:1;cursor:pointer}
+    .history-item span:hover{background:#181818}
+    .del-icon{cursor:pointer;margin-left:6px;font-size:.9rem}
+    .del-icon:hover{opacity:.7}
+
+    #summary-box{margin-top:1rem;white-space:pre-wrap;background:var(--bg-chat);padding:.8rem;border:1px solid var(--border);font-size:.85rem;color:var(--text-dim);display:none}
+    h3{margin:.5rem 0;color:var(--accent);border-bottom:1px solid var(--border);padding-bottom:.3rem}
+  </style>
+</head>
+<body>
+
+  <!-- Sidebar -->
+  <div id="sidebar">
+    <!-- Upload always on top -->
+    <div id="upload">
+      <label for="file">Upload Book</label>
+      <input id="file" type="file" accept=".txt,.pdf,.md"/>
+    </div>
+
+    <!-- History -->
+    <h3>History</h3>
+    <div id="history"></div>
+
+    <!-- Summary box (unchanged) -->
+    <div id="summary-box"></div>
+  </div>
+
+  <!-- Chat -->
+  <div id="chat-area">
+    <div id="messages"></div>
+    <div id="input-area">
+      <input id="question" placeholder="Ask anything…" autocomplete="off"/>
+      <button onclick="sendQuestion()">Send</button>
+    </div>
+  </div>
+
+  <script>
+    const messages   = document.getElementById('messages');
+    const questionEl = document.getElementById('question');
+    const historyEl  = document.getElementById('history');
+    const summaryBox = document.getElementById('summary-box');
+
+    function appendMsg(who, text) {
+      const div = document.createElement('div');
+      div.className = 'msg ' + who;
+      div.textContent = text;
+      messages.appendChild(div);
+      messages.scrollTop = messages.scrollHeight;
+    }
+
+    async function sendQuestion() {
+      const q = questionEl.value.trim();
+      if (!q) return;
+      appendMsg('user', q);
+      questionEl.value = '';
+      const res = await fetch('/ask', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({question:q})});
+      const data = await res.json();
+      appendMsg('bot', data.answer);
+      loadHistory();
+    }
+    questionEl.addEventListener('keydown', e => { if (e.key === 'Enter') sendQuestion(); });
+
+    document.getElementById('file').addEventListener('change', async e => {
+      const file = e.target.files[0];
+      if (!file) return;
+      const form = new FormData();
+      form.append('file', file);
+      await fetch('/upload', {method:'POST', body:form});
+      alert('Book ingested.');
+    });
+
+    async function loadHistory() {
+      const rows = await (await fetch('/history')).json();
+      historyEl.innerHTML = '';
+      rows.forEach(([id, ts, q]) => {
+        const div = document.createElement('div');
+        div.className = 'history-item';
+
+        const txt = document.createElement('span');
+        txt.textContent = q;
+        txt.onclick = () => { questionEl.value = q; questionEl.focus(); };
+
+        const del = document.createElement('span');
+        del.innerHTML = '🗑';
+        del.className = 'del-icon';
+        del.onclick = async (e) => {
+          e.stopPropagation();
+          await fetch(`/history/${id}`, {method:'DELETE'});
+          div.remove();
+        };
+
+        div.appendChild(txt);
+        div.appendChild(del);
+        historyEl.appendChild(div);
+      });
+    }
+
+    async function summarize(book) {
+      const {summary} = await (await fetch(`/summarize/${encodeURIComponent(book)}`)).json();
+      summaryBox.textContent = `📘 ${book}\n${summary}`;
+      summaryBox.style.display = 'block';
+    }
+
+    loadHistory();
+  </script>
+</body>
+</html>

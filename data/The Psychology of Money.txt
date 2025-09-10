@@ -1,0 +1,754 @@
+Money
+Psychology
+of
+The
+
+
+MORGAN HOUSEL
+TIMELESS LESSONS ON WEALTH, 
+GREED, AND HAPPINESS
+Money
+Psychology
+of
+The
+
+harriman house ltd
+3 Viceroy Court
+Bedford Road 
+Petersfield 
+Hampshire
+GU32 3LJ
+GREAT BRITAIN
+Tel: +44 (0)1730 233870
+Email: enquiries@harriman-house.com
+Website: harriman.house
+First published in 2020.
+Copyright © Morgan Housel
+The right of Morgan Housel to be identified as the Author has been asserted in 
+accordance with the Copyright, Design and Patents Act 1988.
+Paperback ISBN: 978-0-85719-768-9
+eBook ISBN: 978-0-85719-769-6
+British Library Cataloguing in Publication Data
+A CIP catalogue record for this book can be obtained from the British Library.
+All rights reserved; no part of this publication may be reproduced, stored in a 
+retrieval system, or transmitted in any form or by any means, electronic, mechanical, 
+photocopying, recording, or otherwise without the prior written permission of the 
+Publisher. This book may not be lent, resold, hired out or otherwise disposed of by 
+way of trade in any form of binding or cover other than that in which it is published 
+without the prior written consent of the Publisher.
+Whilst every effort has been made to ensure that information in this book is accurate, 
+no liability can be accepted for any loss incurred in any way whatsoever by any person 
+relying solely on the information contained herein.
+No responsibility for loss occasioned to any person or corporate body acting or 
+refraining to act as a result of reading material in this book can be accepted by the 
+Publisher, by the Author, or by the employers of the Author.
+
+For
+My parents, who teach me. 
+Gretchen, who guides me. 
+Miles and Reese, who inspire me. 
+
+
+V I I
+ 
+Contents
+Introduction: The Greatest Show On Earth 
+1
+1. No One’s Crazy 
+9
+2. Luck & Risk 
+23
+3. Never Enough 
+35
+4. Confounding Compounding 
+45
+5. Getting Wealthy vs. Staying Wealthy 
+55
+6. Tails, You Win 
+69
+7. Freedom  
+81
+8. Man in the Car Paradox  
+91
+9. Wealth is What You Don’t See 
+95
+10. Save Money 
+101
+11. Reasonable > Rational 
+111
+12. Surprise! 
+121
+13. Room for Error 
+135
+14. You’ll Change 
+147
+15. Nothing’s Free 
+155
+16. You & Me  
+165
+17. The Seduction of Pessimism  
+175
+
+V I I I
+T H E  P S Y C H O L O G Y  O F  M O N E Y
+18. When You’ll Believe Anything 
+189
+19. All Together Now  
+203
+20. Confessions 
+211
+Postscript: A Brief History of Why the U.S. Consumer 
+Thinks the Way They Do 
+221
+Endnotes  
+239
+Acknowledgements  
+242
+
+ 
+“A genius is the man who can do the average thing when 
+everyone else around him is losing his mind.”
+—Napoleon
+“The world is full of obvious things which nobody by any 
+chance ever observes.”
+—Sherlock Holmes
+
+
+1
+ 
+INTRODUCTION:  
+The Greatest Show 
+On Earth
+I 
+spent my college years working as a valet at a nice hotel 
+in Los Angeles. 
+One frequent guest was a technology executive. He was a 
+genius, having designed and patented a key component in Wi-Fi 
+routers in his 20s. He had started and sold several companies. He 
+was wildly successful. 
+He also had a relationship with money I’d describe as a mix of 
+insecurity and childish stupidity. 
+He carried a stack of hundred dollar bills several inches thick. 
+He showed it to everyone who wanted to see it and many who 
+didn’t. He bragged openly and loudly about his wealth, often 
+while drunk and always apropos of nothing. 
+One day he handed one of my colleagues several thousand 
+dollars of cash and said, “Go to the jewelry store down the street 
+and get me a few $1,000 gold coins.”
+An hour later, gold coins in hand, the tech executive and his 
+buddies gathered around by a dock overlooking the Pacific Ocean. 
+They then proceeded to throw the coins into the sea, skipping them 
+like rocks, cackling as they argued whose went furthest. Just for fun. 
+Days later he shattered a lamp in the hotel’s restaurant. A 
+manager told him it was a $500 lamp and he’d have to replace it. 
+
+2
+T H E  P S Y C H O L O G Y  O F  M O N E Y
+“You want five hundred dollars?” the executive asked 
+incredulously, while pulling a brick of cash from his pocket and 
+handing it to the manager. “Here’s five thousand dollars. Now get 
+out of my face. And don’t ever insult me like that again.” 
+You may wonder how long this behavior could last, and the 
+answer was “not long.” I learned years later that he went broke. 
+The premise of this book is that doing well with money has a 
+little to do with how smart you are and a lot to do with how you 
+behave. And behavior is hard to teach, even to really smart people. 
+A genius who loses control of their emotions can be a financial 
+disaster. The opposite is also true. Ordinary folks with no financial 
+education can be wealthy if they have a handful of behavioral skills 
+that have nothing to do with formal measures of intelligence. 
+***
+My favorite Wikipedia entry begins: “Ronald James Read was 
+an American philanthropist, investor, janitor, and gas station 
+attendant.”
+Ronald Read was born in rural Vermont. He was the first 
+person in his family to graduate high school, made all the more 
+impressive by the fact that he hitchhiked to campus each day. 
+For those who knew Ronald Read, there wasn’t much else 
+worth mentioning. His life was about as low key as they come.  
+Read fixed cars at a gas station for 25 years and swept floors 
+at JCPenney for 17 years. He bought a two-bedroom house for 
+$12,000 at age 38 and lived there for the rest of his life. He was 
+widowed at age 50 and never remarried. A friend recalled that his 
+main hobby was chopping firewood. 
+Read died in 2014, age 92. Which is when the humble rural 
+janitor made international headlines. 
+2,813,503 Americans died in 2014. Fewer than 4,000 of them 
+had a net worth of over $8 million when they passed away. Ronald 
+Read was one of them.  
+
+3
+ 
+In his will the former janitor left $2 million to his stepkids and 
+more than $6 million to his local hospital and library. 
+Those who knew Read were baffled. Where did he get all that 
+money? 
+It turned out there was no secret. There was no lottery win and 
+no inheritance. Read saved what little he could and invested it 
+in blue chip stocks. Then he waited, for decades on end, as tiny 
+savings compounded into more than $8 million. 
+That’s it. From janitor to philanthropist. 
+A few months before Ronald Read died, another man named 
+Richard was in the news. 
+Richard Fuscone was everything Ronald Read was not. A 
+Harvard-educated Merrill Lynch executive with an MBA, 
+Fuscone had such a successful career in finance that he retired 
+in his 40s to become a philanthropist. Former Merrill CEO 
+David Komansky praised Fuscone’s “business savvy, leadership 
+skills, sound judgment and personal integrity.”1 Crain’s business 
+magazine once included him in a “40 under 40” list of successful 
+businesspeople.2
+But then—like the gold-coin-skipping tech executive—
+everything fell apart. 
+In the mid-2000s Fuscone borrowed heavily to expand an 
+18,000-square foot home in Greenwich, Connecticut that had 11 
+bathrooms, two elevators, two pools, seven garages, and cost more 
+than $90,000 a month to maintain. 
+Then the 2008 financial crisis hit. 
+The crisis hurt virtually everyone’s finances. It apparently 
+turned Fuscone’s into dust. High debt and illiquid assets left 
+him bankrupt. “I currently have no income,” he allegedly told a 
+bankruptcy judge in 2008. 
+First his Palm Beach house was foreclosed. 
+In 2014 it was the Greenwich mansion’s turn. 
+Five months before Ronald Read left his fortune to charity, 
+ I N T R O D U C T I O N
+
+4
+T H E  P S Y C H O L O G Y  O F  M O N E Y
+Richard Fuscone’s home—where guests recalled the “thrill of 
+dining and dancing atop a see-through covering on the home’s 
+indoor swimming pool”—was sold in a foreclosure auction for 
+75% less than an insurance company figured it was worth.3
+Ronald Read was patient; Richard Fuscone was greedy. That’s 
+all it took to eclipse the massive education and experience gap 
+between the two. 
+The lesson here is not to be more like Ronald and less like 
+Richard—though that’s not bad advice.  
+The fascinating thing about these stories is how unique they 
+are to finance. 
+In what other industry does someone with no college 
+degree, no training, no background, no formal experience, and 
+no connections massively outperform someone with the best 
+education, the best training, and the best connections? 
+I struggle to think of any.  
+It is impossible to think of a story about Ronald Read 
+performing a heart transplant better than a Harvard-trained 
+surgeon. Or designing a skyscraper superior to the best-trained 
+architects. There will never be a story of a janitor outperforming 
+the world’s top nuclear engineers. 
+But these stories do happen in investing.
+The fact that Ronald Read can coexist with Richard Fuscone 
+has two explanations. One, financial outcomes are driven by luck, 
+independent of intelligence and effort. That’s true to some extent, 
+and this book will discuss it in further detail. Or, two (and I think 
+more common), that financial success is not a hard science. It’s a soft 
+skill, where how you behave is more important than what you know. 
+I call this soft skill the psychology of money. The aim of this 
+book is to use short stories to convince you that soft skills are 
+more important than the technical side of money. I’ll do this in a 
+way that will help everyone—from Read to Fuscone and everyone 
+in between—make better financial decisions. 
+
+5
+ I N T R O D U C T I O N
+These soft skills are, I’ve come to realize, greatly underappreciated. 
+Finance is overwhelmingly taught as a math-based field, where 
+you put data into a formula and the formula tells you what to do, 
+and it’s assumed that you’ll just go do it. 
+This is true in personal finance, where you’re told to have a six-
+month emergency fund and save 10% of your salary. 
+It’s true in investing, where we know the exact historical 
+correlations between interest rates and valuations. 
+And it’s true in corporate finance, where CFOs can measure 
+the precise cost of capital. 
+It’s not that any of these things are bad or wrong. It’s that 
+knowing what to do tells you nothing about what happens in 
+your head when you try to do it. 
+***
+Two topics impact everyone, whether you are interested in them 
+or not: health and money. 
+The health care industry is a triumph of modern science, with 
+rising life expectancy across the world. Scientific discoveries have 
+replaced doctors’ old ideas about how the human body works, and 
+virtually everyone is healthier because of it.  
+The money industry—investing, personal finance, business 
+planning—is another story. 
+Finance has scooped up the smartest minds coming from top 
+universities over the last two decades. Financial Engineering was 
+the most popular major in Princeton’s School of Engineering a 
+decade ago. Is there any evidence it has made us better investors? 
+I have seen none. 
+Through collective trial and error over the years we learned 
+how to become better farmers, skilled plumbers, and advanced 
+chemists. But has trial and error taught us to become better with 
+our personal finances? Are we less likely to bury ourselves in 
+debt? More likely to save for a rainy day? Prepare for retirement? 
+
+6
+T H E  P S Y C H O L O G Y  O F  M O N E Y
+Have realistic views about what money does, and doesn’t do, to 
+our happiness?
+I’ve seen no compelling evidence. 
+Most of the reason why, I believe, is that we think about and 
+are taught about money in ways that are too much like physics 
+(with rules and laws) and not enough like psychology (with 
+emotions and nuance). 
+And that, to me, is as fascinating as it is important. 
+Money is everywhere, it affects all of us, and confuses most of 
+us. Everyone thinks about it a little differently. It offers lessons 
+on things that apply to many areas of life, like risk, confidence, 
+and happiness. Few topics offer a more powerful magnifying 
+glass that helps explain why people behave the way they do than 
+money. It is one of the greatest shows on Earth.
+My own appreciation for the psychology of money is shaped 
+by more than a decade of writing on the topic. I began writing 
+about finance in early 2008. It was the dawn of a financial crisis 
+and the worst recession in 80 years. 
+To write about what was happening, I wanted to figure out what 
+was happening. But the first thing I learned after the financial 
+crisis was that no one could accurately explain what happened, 
+or why it happened, let alone what should be done about it. For 
+every good explanation there was an equally convincing rebuttal. 
+Engineers can determine the cause of a bridge collapse because 
+there’s agreement that if a certain amount of force is applied to 
+a certain area, that area will break. Physics isn’t controversial. 
+It’s guided by laws. Finance is different. It’s guided by people’s 
+behaviors. And how I behave might make sense to me but look 
+crazy to you. 
+The more I studied and wrote about the financial crisis, the 
+more I realized that you could understand it better through the 
+lenses of psychology and history, not finance. 
+To grasp why people bury themselves in debt you don’t need 
+
+7
+ I N T R O D U C T I O N
+to study interest rates; you need to study the history of greed, 
+insecurity, and optimism. To get why investors sell out at the 
+bottom of a bear market you don’t need to study the math of 
+expected future returns; you need to think about the agony of 
+looking at your family and wondering if your investments are 
+imperiling their future. 
+I love Voltaire’s observation that “History never repeats itself; 
+man always does.” It applies so well to how we behave with money.
+In 2018, I wrote a report outlining 20 of the most important 
+flaws, biases, and causes of bad behavior I’ve seen affect people 
+when dealing with money. It was called The Psychology of Money, 
+and over one million people have read it. This book is a deeper 
+dive into the topic. Some short passages from the report appear 
+unaltered in this book. 
+What you’re holding is 20 chapters, each describing what I 
+consider to be the most important and often counterintuitive 
+features of the psychology of money. The chapters revolve 
+around a common theme, but exist on their own and can be read 
+independently.
+It’s not a long book. You’re welcome. Most readers don’t finish 
+the books they begin because most single topics don’t require 300 
+pages of explanation. I’d rather make 20 short points you finish 
+than one long one you give up on. 
+On we go.
+
+
+1.  
+No One’s 
+Crazy
+Your personal experiences with money 
+make up maybe 0.00000001% of what’s 
+happened in the world, but maybe 80% of 
+how you think the world works.
+
+
+1 1
+1 .  N O  O N E ’ S  C R A Z Y 
+L
+et me tell you about a problem. It might make you 
+feel better about what you do with your money, and less 
+judgmental about what other people do with theirs. 
+People do some crazy things with money. But no one is crazy. 
+Here’s the thing: People from different generations, raised by 
+different parents who earned different incomes and held different 
+values, in different parts of the world, born into different economies, 
+experiencing different job markets with different incentives and 
+different degrees of luck, learn very different lessons. 
+Everyone has their own unique experience with how the world 
+works. And what you’ve experienced is more compelling than 
+what you learn second-hand. So all of us—you, me, everyone—go 
+through life anchored to a set of views about how money works 
+that vary wildly from person to person. What seems crazy to you 
+might make sense to me. 
+The person who grew up in poverty thinks about risk and 
+reward in ways the child of a wealthy banker cannot fathom if 
+he tried. 
+The person who grew up when inflation was high experienced 
+something the person who grew up with stable prices never had to. 
+The stock broker who lost everything during the Great 
+Depression experienced something the tech worker basking in 
+the glory of the late 1990s can’t imagine. 
+The Australian who hasn’t seen a recession in 30 years has 
+experienced something no American ever has. 
+
+1 2
+T H E  P S Y C H O L O G Y  O F  M O N E Y
+On and on. The list of experiences is endless. 
+You know stuff about money that I don’t, and vice versa. You 
+go through life with different beliefs, goals, and forecasts, than I 
+do. That’s not because one of us is smarter than the other, or has 
+better information. It’s because we’ve had different lives shaped 
+by different and equally persuasive experiences. 
+Your personal experiences with money make up maybe 
+0.00000001% of what’s happened in the world, but maybe 80% 
+of how you think the world works. So equally smart people can 
+disagree about how and why recessions happen, how you should 
+invest your money, what you should prioritize, how much risk you 
+should take, and so on. 
+In his book on 1930s America, Frederick Lewis Allen wrote 
+that the Great Depression “marked millions of Americans—
+inwardly—for the rest of their lives.” But there was a range 
+of experiences. Twenty-five years later, as he was running for 
+president, John F. Kennedy was asked by a reporter what he 
+remembered from the Depression. He remarked: 
+I have no first-hand knowledge of the Depression. My family 
+had one of the great fortunes of the world and it was worth 
+more than ever then. We had bigger houses, more servants, 
+we traveled more. About the only thing that I saw directly 
+was when my father hired some extra gardeners just to give 
+them a job so they could eat. I really did not learn about the 
+Depression until I read about it at Harvard.
+This was a major point in the 1960 election. How, people thought, 
+could someone with no understanding of the biggest economic 
+story of the last generation be put in charge of the economy? It 
+was, in many ways, overcome only by JFK’s experience in World 
+War II. That was the other most widespread emotional experience 
+of the previous generation, and something his primary opponent, 
+Hubert Humphrey, didn’t have.
+
+1 3
+1 .  N O  O N E ’ S  C R A Z Y 
+The challenge for us is that no amount of studying or open-
+mindedness can genuinely recreate the power of fear and 
+uncertainty.  
+I can read about what it was like to lose everything during 
+the Great Depression. But I don’t have the emotional scars of 
+those who actually experienced it. And the person who lived 
+through it can’t fathom why someone like me could come across 
+as complacent about things like owning stocks. We see the world 
+through a different lens. 
+Spreadsheets can model the historic frequency of big stock 
+market declines. But they can’t model the feeling of coming home, 
+looking at your kids, and wondering if you’ve made a mistake 
+that will impact their lives. Studying history makes you feel like 
+you understand something. But until you’ve lived through it 
+and personally felt its consequences, you may not understand it 
+enough to change your behavior.
+We all think we know how the world works. But we’ve all only 
+experienced a tiny sliver of it. 
+As investor Michael Batnick says, “some lessons have to be 
+experienced before they can be understood.” We are all victims, 
+in different ways, to that truth. 
+***
+In 2006 economists Ulrike Malmendier and Stefan Nagel from 
+the National Bureau of Economic Research dug through 50 years 
+of the Survey of Consumer Finances—a detailed look at what 
+Americans do with their money.4
+In theory people should make investment decisions based 
+on their goals and the characteristics of the investment options 
+available to them at the time. 
+But that’s not what people do. 
+The economists found that people’s lifetime investment 
+decisions are heavily anchored to the experiences those investors 
+
+1 4
+T H E  P S Y C H O L O G Y  O F  M O N E Y
+had in their own generation—especially experiences early in their 
+adult life.
+If you grew up when inflation was high, you invested less of 
+your money in bonds later in life compared to those who grew 
+up when inflation was low. If you happened to grow up when 
+the stock market was strong, you invested more of your money in 
+stocks later in life compared to those who grew up when stocks 
+were weak. 
+The economists wrote: “Our findings suggest that individual 
+investors’ willingness to bear risk depends on personal history.”
+Not intelligence, or education, or sophistication. Just the dumb 
+luck of when and where you were born. 
+The Financial Times interviewed Bill Gross, the famed bond 
+manager, in 2019. “Gross admits that he would probably not be 
+where he is today if he had been born a decade earlier or later,” 
+the piece said. Gross’s career coincided almost perfectly with a 
+generational collapse in interest rates that gave bond prices a 
+tailwind. That kind of thing doesn’t just affect the opportunities 
+you come across; it affects what you think about those 
+opportunities when they’re presented to you. To Gross, bonds 
+were wealth-generating machines. To his father’s generation, who 
+grew up with and endured higher inflation, they might be seen as 
+wealth incinerators. 
+The differences in how people have experienced money are not 
+small, even among those you might think are pretty similar. 
+Take stocks. If you were born in 1970, the S&P 500 increased 
+almost 10-fold, adjusted for inflation, during your teens and 20s. 
+That’s an amazing return. If you were born in 1950, the market 
+went literally nowhere in your teens and 20s adjusted for inflation. 
+Two groups of people, separated by chance of their birth year, go 
+through life with a completely different view on how the stock 
+market works:
+
+1 5
+1 .  N O  O N E ’ S  C R A Z Y 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+13 
+18 
+Rebased to 1 at age 13 
+Age 
+What stocks did in your teens and 20s 
+Born 1950 
+Born 1970 
+18
+23
+28
+Or inflation. If you were born in 1960s America, inflation 
+during your teens and 20s—your young, impressionable years 
+when you’re developing a base of knowledge about how the 
+economy works—sent prices up more than threefold. That’s a 
+lot. You remember gas lines and getting paychecks that stretched 
+noticeably less far than the ones before them. But if you were 
+born in 1990, inflation has been so low for your whole life that it’s 
+probably never crossed your mind. 
+
+1 6
+T H E  P S Y C H O L O G Y  O F  M O N E Y
+0 
+1 
+2 
+3 
+13 
+18 
+Rebased to 1 at age 13 
+Age 
+What inﬂation did to prices in your teens and 20s 
+Born 1960 
+Born 1990 
+18
+23
+28
+America’s nationwide unemployment in November 2009 was 
+around 10%. But the unemployment rate for African American 
+males age 16 to 19 without a high school diploma was 49%. For 
+Caucasian females over age 45 with a college degree, it was 4%.
+Local stock markets in Germany and Japan were wiped out 
+during World War II. Entire regions were bombed out. At the 
+end of the war German farms only produced enough food to 
+provide the country’s citizens with 1,000 calories a day. Compare 
+that to the U.S., where the stock market more than doubled from 
+1941 through the end of 1945, and the economy was the strongest 
+it had been in almost two decades. 
+No one should expect members of these groups to go through 
+the rest of their lives thinking the same thing about inflation. Or 
+the stock market. Or unemployment. Or money in general. 
+No one should expect them to respond to financial information 
+the same way. No one should assume they are influenced by the 
+same incentives. 
+
+1 7
+1 .  N O  O N E ’ S  C R A Z Y 
+No one should expect them to trust the same sources of advice. 
+No one should expect them to agree on what matters, what’s 
+worth it, what’s likely to happen next, and what the best path 
+forward is. 
+Their view of money was formed in different worlds. And when 
+that’s the case, a view about money that one group of people 
+thinks is outrageous can make perfect sense to another.  
+A few years ago, The New York Times did a story on the working 
+conditions of Foxconn, the massive Taiwanese electronics 
+manufacturer. The conditions are often atrocious. Readers were 
+rightly upset. But a fascinating response to the story came from 
+the nephew of a Chinese worker, who wrote in the comment 
+section:
+My aunt worked several years in what Americans call “sweat 
+shops.” It was hard work. Long hours, “small” wage, “poor” 
+working conditions. Do you know what my aunt did before 
+she worked in one of these factories? She was a prostitute.
+The idea of working in a “sweat shop” compared to that old 
+lifestyle is an improvement, in my opinion. I know that my 
+aunt would rather be “exploited” by an evil capitalist boss for 
+a couple of dollars than have her body be exploited by several 
+men for pennies.
+That is why I am upset by many Americans’ thinking. We do 
+not have the same opportunities as the West. Our governmental 
+infrastructure is different. The country is different. Yes, factory 
+is hard labor. Could it be better? Yes, but only when you 
+compare such to American jobs.
+I don’t know what to make of this. Part of me wants to argue, 
+fiercely. Part of me wants to understand. But mostly it’s an 
+example of how different experiences can lead to vastly different 
+views within topics that one side intuitively thinks should be 
+black and white. 
+
+1 8
+T H E  P S Y C H O L O G Y  O F  M O N E Y
+Every decision people make with money is justified by taking 
+the information they have at the moment and plugging it into 
+their unique mental model of how the world works. 
+Those people can be misinformed. They can have incomplete 
+information. They can be bad at math. They can be persuaded by 
+rotten marketing. They can have no idea what they’re doing. They 
+can misjudge the consequences of their actions. Oh, can they ever.
+But every financial decision a person makes, makes sense to 
+them in that moment and checks the boxes they need to check. 
+They tell themselves a story about what they’re doing and why 
+they’re doing it, and that story has been shaped by their own 
+unique experiences. 
+Take a simple example: lottery tickets. 
+Americans spend more on them than movies, video games, 
+music, sporting events, and books combined. 
+And who buys them? Mostly poor people. 
+The lowest-income households in the U.S. on average spend 
+$412 a year on lotto tickets, four times the amount of those in the 
+highest income groups. Forty percent of Americans cannot come 
+up with $400 in an emergency. Which is to say: Those buying 
+$400 in lottery tickets are by and large the same people who 
+say they couldn’t come up with $400 in an emergency. They are 
+blowing their safety nets on something with a one-in-millions 
+chance of hitting it big. 
+That seems crazy to me. It probably seems crazy to you, too. 
+But I’m not in the lowest income group. You’re likely not, either. 
+So it’s hard for many of us to intuitively grasp the subconscious 
+reasoning of low-income lottery ticket buyers. 
+But strain a little, and you can imagine it going something 
+like this:
+We live paycheck-to-paycheck and saving seems out of reach. 
+Our prospects for much higher wages seem out of reach. We 
+
+1 9
+1 .  N O  O N E ’ S  C R A Z Y 
+can’t afford nice vacations, new cars, health insurance, or homes 
+in safe neighborhoods. We can’t put our kids through college 
+without crippling debt. Much of the stuff you people who read 
+finance books either have now, or have a good chance of getting, 
+we don’t. Buying a lottery ticket is the only time in our lives we 
+can hold a tangible dream of getting the good stuff that you 
+already have and take for granted. We are paying for a dream, 
+and you may not understand that because you are already living 
+a dream. That’s why we buy more tickets than you do.
+You don’t have to agree with this reasoning. Buying lotto tickets 
+when you’re broke is still a bad idea. But I can kind of understand 
+why lotto ticket sales persist. 
+And that idea—“What you’re doing seems crazy but I kind of 
+understand why you’re doing it.”—uncovers the root of many of 
+our financial decisions. 
+Few people make financial decisions purely with a spreadsheet. 
+They make them at the dinner table, or in a company meeting. 
+Places where personal history, your own unique view of the world, 
+ego, pride, marketing, and odd incentives are scrambled together 
+into a narrative that works for you. 
+***
+Another important point that helps explain why money decisions 
+are so difficult, and why there is so much misbehavior, is to 
+recognize how new this topic is. 
+Money has been around a long time. King Alyattes of Lydia, 
+now part of Turkey, is thought to have created the first official 
+currency in 600 BC. But the modern foundation of money 
+decisions—saving and investing—is based around concepts that 
+are practically infants. 
+Take retirement. At the end of 2018 there was $27 trillion in U.S. 
+retirement accounts, making it the main driver of the common 
+investor’s saving and investing decisions.5
+
+2 0
+T H E  P S Y C H O L O G Y  O F  M O N E Y
+But the entire concept of being entitled to retirement is, at 
+most, two generations old. 
+Before World War II most Americans worked until they 
+died. That was the expectation and the reality. The labor force 
+participation rate of men age 65 and over was above 50% until 
+the 1940s:
+78% 
+74% 
+65% 
+58% 60% 58% 
+44% 
+47% 
+41% 
+35% 
+25% 
+18% 18% 
+22% 
+0% 
+10% 
+20% 
+30% 
+40% 
+50% 
+60% 
+70% 
+80% 
+90% 
+Laborforce participation rate for men age 65+ 
+Social Security aimed to change this. But its initial benefits 
+were nothing close to a proper pension. When Ida May Fuller 
+cashed the first Social Security check in 1940, it was for $22.54, 
+or $416 adjusted for inflation. It was not until the 1980s that 
+the average Social Security check for retirees exceeded $1,000 a 
+month adjusted for inflation. More than a quarter of Americans 
+over age 65 were classified by the Census Bureau as living in 
+poverty until the late 1960s. 
+There is a widespread belief along the lines of, “everyone used 
+to have a private pension.” But this is wildly exaggerated. The 
+Employee Benefit Research Institute explains: “Only a quarter of 
+
+2 1
+1 .  N O  O N E ’ S  C R A Z Y 
+those age 65 or older had pension income in 1975.” Among that 
+lucky minority, only 15% of household income came from a pension. 
+The New York Times wrote in 1955 about the growing desire, 
+but continued inability, to retire: “To rephrase an old saying: 
+everyone talks about retirement, but apparently very few do 
+anything about it.”6
+It was not until the 1980s that the idea that everyone deserves, 
+and should have, a dignified retirement took hold. And the way 
+to get that dignified retirement ever since has been an expectation 
+that everyone will save and invest their own money. 
+Let me reiterate how new this idea is: The 401(k)—the 
+backbone savings vehicle of American retirement—did not exist 
+until 1978. The Roth IRA was not born until 1998. If it were a 
+person it would be barely old enough to drink. 
+It should surprise no one that many of us are bad at saving and 
+investing for retirement. We’re not crazy. We’re all just newbies. 
+Same goes for college. The share of Americans over age 25 with 
+a bachelor’s degree has gone from less than 1 in 20 in 1940 to 1 in 
+4 by 2015.7 The average college tuition over that time rose more 
+than fourfold adjusted for inflation.8 Something so big and so 
+important hitting society so fast explains why, for example, so 
+many people have made poor decisions with student loans over 
+the last 20 years. There is not decades of accumulated experience 
+to even attempt to learn from. We’re winging it. 
+Same for index funds, which are less than 50 years old. And 
+hedge funds, which didn’t take off until the last 25 years. Even 
+widespread use of consumer debt—mortgages, credit cards, and 
+car loans—did not take off until after World War II, when the GI 
+Bill made it easier for millions of Americans to borrow. 
+Dogs were domesticated 10,000 years ago and still retain some 
+behaviors of their wild ancestors. Yet here we are, with between 20 
+and 50 years of experience in the modern financial system, hoping 
+to be perfectly acclimated. 
+
+2 2
+T H E  P S Y C H O L O G Y  O F  M O N E Y
+For a topic that is so influenced by emotion versus fact, this is a 
+problem. And it helps explain why we don’t always do what we’re 
+supposed to with money. 
+We all do crazy stuff with money, because we’re all relatively 
+new to this game and what looks crazy to you might make sense 
+to me. But no one is crazy—we all make decisions based on our 
+own unique experiences that seem to make sense to us in a given 
+moment. 
+Now let me tell you a story about how Bill Gates got rich.
