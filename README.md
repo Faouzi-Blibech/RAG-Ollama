@@ -71,7 +71,6 @@ WORKINGRAG/
 ├── backend.py          # Flask web server
 ├── frontend.html       # Web interface
 ├── test2.py           # Main CLI application (Local Ollama)
-├── test.py            # API version (Kimi/Moonshot)
 ├── data/              # Document storage
 ├── my_docs.db         # Vector database
 ├── queries.db         # Query history
@@ -155,5 +154,5 @@ MIT License - see LICENSE file for details.
 
 ---
 
-Built during internship at Aptum - September 2025
+Built during internship at Aptum - July 2025
 
