@@ -1,9 +1,3 @@
-#  - Auto chunk size
-#  - GUI upload (tkinter)
-#  - PyMuPDF PDF→text
-#  - WAL + RAM tweaks
-#  - Benchmark logging to log.txt
-#  - LOCAL Ollama LLM (no OpenAI / Moonshot)
 
 import os
 import sqlite3
